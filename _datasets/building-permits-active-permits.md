@@ -3,7 +3,7 @@ category: ''
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: ''
-organization: Toronto Building Plan Review Section
+organization: Toronto Building
 resources:
 - format: XLS
   name: Toronto Building - Active Permits Readme
@@ -15,5 +15,5 @@ resources:
   name: Active Permits in XML
   url: http://opendata.toronto.ca/building/active.permits/activepermits.zip
 schema: default
-title: 'Building Permits - Active Permits '
+title: Building Permits - Active Permits
 ---

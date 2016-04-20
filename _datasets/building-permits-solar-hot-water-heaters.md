@@ -3,7 +3,7 @@ category: ''
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: ''
-organization: Toronto Building Plan Review Section
+organization: Toronto Building
 resources:
 - format: XLS
   name: Toronto Building - Solar Water Heater Permits Readme
@@ -15,5 +15,5 @@ resources:
   name: Toronto Building - Solar Water Heater Permits
   url: http://opendata.toronto.ca/building/solar.water.heater.permits/solarhotwater.xml
 schema: default
-title: 'Building Permits - Solar Hot Water Heaters '
+title: Building Permits - Solar Hot Water Heaters
 ---

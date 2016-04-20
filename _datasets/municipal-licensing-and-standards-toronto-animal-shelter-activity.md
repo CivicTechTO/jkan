@@ -3,7 +3,7 @@ category: ''
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: ''
-organization: Municipal Licensing & Standards - Toronto Animal Services
+organization: Municipal Licensing & Standards
 resources:
 - format: XLS
   name: Toronto Animal Services Shelter Activity Report Readme
@@ -17,5 +17,5 @@ resources:
   url: http://www1.toronto.ca/City Of Toronto/Information & Technology/Open Data/Data
     Sets/Assets/Files/municipal_licensing_animal_shelter_activity.xls
 schema: default
-title: 'Municipal Licensing and Standards - Toronto Animal Shelter Activity '
+title: Municipal Licensing and Standards - Toronto Animal Shelter Activity
 ---

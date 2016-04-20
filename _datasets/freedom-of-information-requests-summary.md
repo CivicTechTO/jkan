@@ -3,7 +3,7 @@ category: ''
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: ''
-organization: City Clerk's Office - Corporate Information Management Services
+organization: City Clerk's Office
 resources:
 - format: XLS
   name: FOI Requests Summary Readme
@@ -25,7 +25,7 @@ resources:
   name: FOI Requests Summary Q2 2012
   url: http://www1.toronto.ca/City_Of_Toronto/Information_&_Technology/Open_Data/Data_Sets/Assets/Files/FOIRequestsSummaryQ22012.xls
 - format: XLSX
-  name: ' FOI Requests Summary Q3 2012'
+  name: FOI Requests Summary Q3 2012
   url: http://www1.toronto.ca/City_Of_Toronto/Information_&_Technology/Open_Data/Data_Sets/Assets/Files/FOIRequestsSummaryQ32012.xlsx
 - format: XLSX
   name: FOI Requests Summary Q4 2012
