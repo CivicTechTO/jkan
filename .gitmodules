@@ -1,0 +1,3 @@
+[submodule "scrapers"]
+	path = scrapers
+	url = git@github.com:CivicTechTO/scrapers-to-data-portal.git
