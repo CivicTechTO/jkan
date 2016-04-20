@@ -17,6 +17,9 @@ layout: default
         {{ page.title }}
         <a href="?view=edit" class="pull-right btn btn-default admin-only">Edit</a>
       </h1>
+      {% if page.website and page.website != empty %}
+      <p id="website"><a href="{{ page.website }}" target="_blank">Website</a></p>
+      {% endif %}
       <p>{{ page.description }}</p>
       <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
         <h3 class="datasets-count" data-hook="datasets-count"></h3>
