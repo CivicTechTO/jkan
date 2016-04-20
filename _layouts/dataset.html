@@ -4,7 +4,7 @@ layout: default
 {% include breadcrumbs.html parent="Datasets" %}
 {% assign schema = page.schema | default: site.schema %}
 {% assign dataset_fields = site.data.schemas[schema].dataset_fields %}
-{% assign dataset_system_fields = "title|organization|notes|license" | split: "|" %}
+{% assign dataset_system_fields = "title|organization|notes|license|source" | split: "|" %}
 {% assign resource_fields = site.data.schemas[schema].resource_fields %}
 {% assign resource_system_fields = "name|url|format|description" | split: "|" %}
 
@@ -39,6 +39,7 @@ layout: default
         <span property="dct:title">{{ page.title }}</span>
         <a href="?view=edit" class="pull-right btn btn-default admin-only" data-hook="edit-dataset-btn">Edit</a>
       </h1>
+      <p><a href="{{ page.source }}" target="_blank">Source</a></p>
       <p property="dct:description">{{ page.notes }}</p>
 
       <h2>Resources</h2>
