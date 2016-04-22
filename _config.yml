@@ -32,6 +32,8 @@ collections:
     output: true
     permalink: /organizations/:path/
 
+permalink: pretty
+
 # Collections (cont'd)
 defaults:
   - scope:
