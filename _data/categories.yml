@@ -1,11 +1,11 @@
-- name: Arts / Culture / History
+- name: Culture and Tourism
   logo: /img/categories/arts-culture-history.svg
   featured: true
-- name: Budget / Finance
+- name: Finance
   logo: /img/categories/budget-finance.svg
   logo_credit: Renan Ferreira Santos from the Noun Project
   featured: true
-- name: Economy
+- name: Business
   logo: /img/categories/economy.svg
   logo_credit: Vectors Market from the Noun Project
   featured: true
@@ -13,26 +13,22 @@
   logo: /img/categories/education.svg
   logo_credit: Sergey Patutin from the Noun Project
   featured: true
-- name: Elections / Politics
+- name: City Government
   logo: /img/categories/elections-politics.svg
   logo_credit: Jean Soo from the Noun Project
   featured: true
 - name: Environment
   logo: /img/categories/environment.svg
   featured: true
-- name: Food
-  logo: /img/categories/food.svg
-  logo_credit: Creative Stall from the Noun Project
-  featured: true
-- name: Health / Human Services
+- name: Health
   logo: /img/categories/health-human-services.svg
   logo_credit: Timothy Miller from the Noun Project
   featured: true
-- name: Parks / Recreation
+- name: Parks and Recreation
   logo: /img/categories/parks-recreation.svg
   logo_credit: Pipe Rosas Licht from the Noun Project
   featured: true
-- name: Planning / Zoning
+- name: Development and Infrastructure
   logo: /img/categories/planning-zoning.svg
   featured: true
 - name: Public Safety
@@ -41,7 +37,7 @@
   featured: true
 - name: Real Estate / Land Records
   logo: /img/categories/real-estate-land-records.svg
-  featured: true
+  featured: false
 - name: Transportation
   logo: /img/categories/transportation.svg
   logo_credit: Dmitry Baranovskiy from the Noun Project
@@ -49,4 +45,8 @@
 - name: Uncategorized
   logo: /img/categories/uncategorized.svg
   logo_credit: Edward Boatman from the Noun Project
+  featured: true
+- name: Locations and Mapping
+  logo: /img/categories/mapping.svg
+  logo_credit: Shashank Singh from the Noun Project
   featured: true
