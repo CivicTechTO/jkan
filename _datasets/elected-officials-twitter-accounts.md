@@ -7,7 +7,7 @@ organization: Civic Tech Toronto
 resources:
 - format: CSV
   name: City Council 2014-2018
-  url: https://github.com/CivicTechTO/community-datasets/blob/master/datasets/elected_officials_twitter/toronto-council-2014-2018.csv
+  url: https://raw.githubusercontent.com/CivicTechTO/community-datasets/master/datasets/elected_officials_twitter/toronto-council-2014-2018.csv
 schema: default
 title: Elected Official's Twitter Accounts
 source: https://github.com/CivicTechTO/community-datasets/blob/master/datasets/elected_officials_twitter/README.md
