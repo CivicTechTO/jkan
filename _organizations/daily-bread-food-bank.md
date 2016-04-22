@@ -1,5 +1,5 @@
 ---
-logo: http://ajournalofmusicalthings.com/wp-content/uploads/Toronto-logo.png
+logo: http://imgur.com/Q7t7efP.png
 official: true
 title: Daily Bread Food Bank
 ---
