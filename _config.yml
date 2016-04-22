@@ -1,7 +1,7 @@
 title: data.toronto.io
-greeting: Welcome to Toronto Data Portal
-description: A lightweight, backend-free open data portal, powered by Jekyll.
-baseurl: /jkan
+greeting: Welcome to data.toronto.io
+description: A citizen-maintained data portal provided as a service of Civic Tech Toronto.
+baseurl: /data.toronto.io
 logo: /img/jkan.png
 
 # Site theme
