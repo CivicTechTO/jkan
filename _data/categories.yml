@@ -1,3 +1,7 @@
+- name: Locations and Mapping
+  logo: /img/categories/mapping.svg
+  logo_credit: Shashank Singh from the Noun Project
+  featured: true
 - name: Culture and Tourism
   logo: /img/categories/arts-culture-history.svg
   featured: true
@@ -45,8 +49,4 @@
 - name: Uncategorized
   logo: /img/categories/uncategorized.svg
   logo_credit: Edward Boatman from the Noun Project
-  featured: true
-- name: Locations and Mapping
-  logo: /img/categories/mapping.svg
-  logo_credit: Shashank Singh from the Noun Project
   featured: true
