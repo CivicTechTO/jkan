@@ -2,7 +2,7 @@ title: data.toronto.io
 greeting: Welcome to data.toronto.io
 description: A citizen-maintained data portal provided as a service of Civic Tech Toronto.
 baseurl: /data.toronto.io
-logo: /img/jkan.png
+logo: /img/toronto_200x200.jpg
 
 # Site theme
 theme: Default
