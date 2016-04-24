@@ -1,6 +1,7 @@
 ---
 category:
 - Community services
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: Number of client visits to Daily Bread Food Bank per month beginning in 2009.

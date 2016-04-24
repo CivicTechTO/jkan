@@ -3,6 +3,7 @@ category:
 - Development and infrastructure
 - Culture and tourism
 - City government
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: The City Manager conducted a public consultation in May 2015 to seek input

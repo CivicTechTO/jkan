@@ -1,6 +1,7 @@
 ---
 category:
 - Locations and mapping
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Geospatial Competency Centre
 maintainer_email: gcc@toronto.ca
 notes: A series of web map services for access to live geospatial data.

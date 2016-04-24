@@ -4,6 +4,7 @@ category:
 - Environment
 - Development and infrastructure
 - City government
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: City-wide Zoning Bylaw No. 569-2013 regulates the use of land, the size and

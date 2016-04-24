@@ -2,6 +2,7 @@
 category:
 - Finance
 - City government
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Pcard Expenditures
 maintainer_email: jbuck@toronto.ca
 notes: "The dataset contains details of all purchases made by City staff members using\

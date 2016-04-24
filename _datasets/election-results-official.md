@@ -1,6 +1,7 @@
 ---
 category:
 - City government
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: Election poll by poll results data from the 2003, 2006, 2010 and 2014 elections.

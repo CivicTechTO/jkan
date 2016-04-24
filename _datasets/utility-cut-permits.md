@@ -5,6 +5,7 @@ category:
 - Permits and licenses
 - Locations and mapping
 - Development and infrastructure
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Right-of-Way Management
 maintainer_email: trarow@toronto.ca
 notes: Locations in the City of Toronto where Utility Companies have been granted

@@ -2,6 +2,7 @@
 category:
 - Finance
 - Development and infrastructure
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: City of Toronto revenues from the Municipal Land Transfer Tax per month beginning

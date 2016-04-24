@@ -2,6 +2,7 @@
 category:
 - Public safety
 - Locations and mapping
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: Shapefile of Toronto Police Divisional boundary polygons.

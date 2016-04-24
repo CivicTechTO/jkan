@@ -2,6 +2,7 @@
 category:
 - Locations and mapping
 - Community services
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: "Toronto Children\u2019s Services"
 maintainer_email: childcare@toronto.ca
 notes: Licensed Child Care Centres in the City of Toronto including their capacities

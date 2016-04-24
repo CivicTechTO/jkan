@@ -4,6 +4,7 @@ category:
 - Culture and tourism
 - Community services
 - Business
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: The database consists of the name of the facility, address, ward information,

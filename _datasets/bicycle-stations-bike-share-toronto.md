@@ -4,6 +4,7 @@ category:
 - Locations and mapping
 - Environment
 - Culture and tourism
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: The system includes 1,000 bikes, 80 Bike Share terminal locations with 1,500

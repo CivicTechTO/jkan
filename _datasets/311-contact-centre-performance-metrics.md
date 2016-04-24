@@ -2,6 +2,7 @@
 category:
 - Community services
 - City government
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: This dataset contains 311 Contact Centre Metrics calculated for daily, weekly,

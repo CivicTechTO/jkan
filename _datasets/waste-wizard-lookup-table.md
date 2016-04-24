@@ -4,6 +4,7 @@ category:
 - Parks and recreation
 - Garbage and recycling
 - Environment
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: This data set feeds Waste Wizard, an online waste sorting tool found on Solid

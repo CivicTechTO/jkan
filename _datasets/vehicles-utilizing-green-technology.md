@@ -2,6 +2,7 @@
 category:
 - Transportation
 - Environment
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: "List of all vehicles that utilize green technology managed by Fleet Services.\_\

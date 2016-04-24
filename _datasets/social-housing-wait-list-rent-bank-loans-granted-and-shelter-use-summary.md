@@ -2,6 +2,7 @@
 category:
 - Finance
 - Community services
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: The wait list for social housing, number of rent bank loans granted and shelter

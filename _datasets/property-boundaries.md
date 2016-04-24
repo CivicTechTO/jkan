@@ -3,6 +3,7 @@ category:
 - Locations and mapping
 - Development and infrastructure
 - City government
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: Open Data Team
 maintainer_email: opendata@toronto.ca
 notes: This data is a GIS file that outlines visually the geographical area of all

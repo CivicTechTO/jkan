@@ -1,6 +1,7 @@
 ---
 category:
 - City government
+license: http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4a37e03bb8d1e310VgnVCM10000071d60f89RCRD
 maintainer: City Clerk's Office, Secretariat
 maintainer_email: clerk@toronto.ca
 notes: Access Attendance Reporting data for Members of Toronto City Council.
