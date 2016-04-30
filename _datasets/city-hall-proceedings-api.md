@@ -10,7 +10,7 @@ organization: Civic Tech Toronto
 resources:
 - format: API
   name: Open Civic Data API - Toronto
-  url: http://toronto-ocd-api.herokuapp.com/
+  url: http://toronto-ocd-api.herokuapp.com/jurisdictions
 - format: HTML
   name: API Endpoint Documentation
   url: http://docs.opencivicdata.org/en/latest/api/overview.html#endpoints
