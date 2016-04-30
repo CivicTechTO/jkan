@@ -2,7 +2,7 @@
 category:
 - Public safety
 - Locations and mapping
-maintainer: Alex
+maintainer: Alex Hess
 maintainer_email: http://www.avbrand.com/faq/contact/
 notes: Citizen dataset that adds geo-location information into the LiveCAD feed.
 organization: HackLab.TO
