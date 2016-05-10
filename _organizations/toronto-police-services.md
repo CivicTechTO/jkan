@@ -1,5 +1,5 @@
 ---
-logo: https://pbs.twimg.com/profile_images/665208414969053185/uN82Bpqg_400x400.jpg
+logo: https://pbs.twimg.com/profile_images/664827185677496320/FKboIC_C.jpg
 official: true
 title: Toronto Police Services
 ---
