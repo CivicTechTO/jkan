@@ -7,10 +7,10 @@ organization: Civic Tech Toronto
 resources:
 - format: JSON
   name: List of all data resources
-  url: /data.toronto.io/data.json
+  url: /data.t0ronto.ca/data.json
 - format: JSON
   name: List of all datasets
-  url: /data.toronto.io/datasets.json
+  url: /data.t0ronto.ca/datasets.json
 schema: default
 title: Open Data Catalogue datasets
 source: https://github.com/CivicTechTO/scrapers-to-data-portal
