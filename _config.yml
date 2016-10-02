@@ -4,9 +4,6 @@ description: A citizen-maintained data portal provided as a service of Civic Tec
 baseurl: /data.t0ronto.ca
 logo: /img/toronto_200x200.jpg
 
-# Site theme
-theme: Default
-
 # Authentication
 github_client_id: 36f48db8f4aa75b60914
 gatekeeper_host: https://toronto-jkan-gatekeeper.herokuapp.com
