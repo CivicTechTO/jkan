@@ -1,7 +1,6 @@
 title: data.t0ronto.ca
 greeting: Welcome to data.t0ronto.ca
 description: A citizen-maintained data portal provided as a service of Civic Tech Toronto.
-baseurl: /data.t0ronto.ca
 logo: /img/toronto_200x200.jpg
 
 # Authentication
