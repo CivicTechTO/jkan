@@ -1,5 +1,5 @@
 ---
-category: 'Culture and Tourism'
+category: Culture and tourism
 maintainer: Patrick Connolly
 maintainer_email: patrick.c.connolly@gmail.com
 notes: >-

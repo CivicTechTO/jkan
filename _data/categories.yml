@@ -1,4 +1,4 @@
-- name: Locations and Mapping
+- name: Locations and mapping
   logo: /img/categories/mapping.svg
   logo_credit: Shashank Singh from the Noun Project
   featured: true
@@ -17,7 +17,7 @@
   logo: /img/categories/education.svg
   logo_credit: Sergey Patutin from the Noun Project
   featured: true
-- name: City Government
+- name: City government
   logo: /img/categories/elections-politics.svg
   logo_credit: Jean Soo from the Noun Project
   featured: true

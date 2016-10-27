@@ -1,7 +1,7 @@
 ---
 category:
-- Locations and Mapping
-- Parks and Recreation
+- Locations and mapping
+- Parks and recreation
 - Health
 license: ''
 maintainer: Findhelp Information Services

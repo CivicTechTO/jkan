@@ -9,7 +9,7 @@ resources:
     format: json
 license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
-  - City Government
+  - City government
 maintainer: Patrick Connolly
 maintainer_email: patrick.c.connolly@gmail.com
 ---
